@@ -9,7 +9,7 @@ The filaments controlled by [TLC9540](https://www.ti.com/lit/ds/symlink/tlc5940.
 The [TLC9540 arduino library](https://github.com/PaulStoffregen/Tlc5940) is reqired.
 
 ## LED filaments
-![LED filaments](/pic/filament.png)
+![LED filaments](/pic/filament.jpg)
 
 ## Wiring
 ![Wiring](/pic/scheme.png)
@@ -22,7 +22,7 @@ The [TLC9540 arduino library](https://github.com/PaulStoffregen/Tlc5940) is reqi
 ![Bottle](/pic/bottle_cut.jpg)
 
 
-## Enjoy
+## Result
 ![peace of art](/pic/art.jpg)
 
 
